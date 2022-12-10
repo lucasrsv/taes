@@ -21,6 +21,7 @@
 *.vok
 *.vos
 *.html
+.common/
 .coq-native/
 .csdp.cache
 .lia.cache
